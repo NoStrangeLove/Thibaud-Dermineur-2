@@ -1,8 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;600&display=swap");
 
-/* ========================
-   GENERAL STYLES
-======================== */
 body {
     font-family: 'Rajdhani', sans-serif;
     font-size: 18px;
@@ -19,9 +16,7 @@ a {
     text-decoration: none;
 }
 
-/* ========================
-   NAVBAR
-======================== */
+
 .navbar {
     background-color: rgba(10, 10, 15, 0.95);
     padding-top: 20px;
@@ -65,17 +60,12 @@ a {
     color: #00f0ff;
 }
 
-/* ========================
-   CONTAINER
-======================== */
 .container {
     width: 1100px;
     margin: 0 auto;
 }
 
-/* ========================
-   BUTTON
-======================== */
+
 .btn {
     background-color: transparent;
     color: #00f0ff;
@@ -112,9 +102,7 @@ a {
     color: #0a0a0f;
 }
 
-/* ========================
-   BANNER
-======================== */
+
 .banner {
     background-image:
           linear-gradient(rgba(10, 10, 15, 0.7), rgba(10, 10, 15, 0.85)),
@@ -165,9 +153,6 @@ a {
     gap: 20px;
 }
 
-/* ========================
-   SECTION TITLE
-======================== */
 .section-title {
     text-align: center;
     font-size: 30px;
@@ -193,22 +178,17 @@ a {
     margin: 0 auto 16px auto;
 }
 
-/* ========================
-   FEATURES SECTION
-======================== */
 .features {
     padding-top: 100px;
     padding-bottom: 100px;
     background-color: #0a0a0f;
 }
 
-/* CARDS GRID */
 .cards {
     display: flex;
     flex-wrap: wrap;
 }
 
-/* CARD */
 .card {
     flex-basis: 280px;
     flex-grow: 1;
@@ -244,9 +224,6 @@ a {
     line-height: 1.7;
 }
 
-/* ========================
-   EXPERIENCES SECTION
-======================== */
 .experiences {
     background-color: #07070d;
     padding-top: 100px;
@@ -293,9 +270,6 @@ a {
     line-height: 1.6;
 }
 
-/* ========================
-   TYPEFORM SECTION
-======================== */
 .typeform-section {
     background-color: #07070d;
     border-top: 1px solid #1e1e2e;
@@ -319,9 +293,6 @@ a {
     margin-bottom: 40px;
 }
 
-/* ========================
-   FOOTER
-======================== */
 .footer {
     background-color: #0a0a0f;
     border-top: 1px solid #1e1e2e;
@@ -334,47 +305,4 @@ a {
     color: #333333;
     font-size: 14px;
     letter-spacing: 2px;
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
-}
 }
